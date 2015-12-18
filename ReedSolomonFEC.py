@@ -10,8 +10,7 @@ def decodeFEC(decodeVal):
     return nval
 
 
-chrString = '1001100111'
-val = encodeFEC(chrString)
-print val
-newVal = decodeFEC(val)
+#chrString = '100'
+#val = encodeFEC(chrString)
+#newVal = decodeFEC(val)
 
